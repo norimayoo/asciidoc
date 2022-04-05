@@ -1,0 +1,9 @@
+= Training for Asciidoc
+
+indexページはinludeで構成 +
+↓から全て外部adocファイル
+
+include::ref_link.adoc[]
+
+include::ref_jirei.adoc[]
+
