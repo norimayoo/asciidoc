@@ -1,0 +1,4 @@
+== 後で読む
+
+AsciiDocドキュメントのリポジトリ構成 - Qiita +
+https://qiita.com/aki-nasu/items/464e069f41f2a9b5bc7f

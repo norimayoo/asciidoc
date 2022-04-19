@@ -1,5 +1,25 @@
-== 事例集
+== ベストプラクティス
 
-progit/progit2-ja
-https://github.com/progit/progit2-ja
+=== 公開文書
 
+* progit/progit2-ja
+** https://github.com/progit/progit2-ja
+*** 関連リンク
+テクニカルライティングの将来 ー GitHub上のAsciidocで技術書Pro Gitを協働執筆 +
+https://postd.cc/living-the-future-of-technical-writing/
+
+* spring-boot
+** https://github.com/spring-projects/spring-boot/tree/main/spring-boot-project/spring-boot-docs/src/docs/asciidoc
+
+* elastic/docs
+** https://github.com/elastic/docs
+
+* continuous-manual-writing
+** https://github.com/continuous-manual-writing/book-source
+
+* azu/promises-book
+** https://github.com/azu/promises-book
+
+=== ベストプラクティス
+* AsciiDoc Recommended Practices
+** https://asciidoctor.org/docs/asciidoc-recommended-practices/
