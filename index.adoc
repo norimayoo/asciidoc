@@ -1,9 +1,19 @@
 = Training for Asciidoc
+:toc: left
+:sectnums:
+:toclevels: 5
+:toc-title: 目次
 
-indexページはinludeで構成 +
-↓から全て外部adocファイル
+indexページには情報を載せず、inludeで構成しています
+
+include::ref_link.adoc[]
 
 include::ref_link.adoc[]
 
 include::ref_jirei.adoc[]
 
+[plantuml,format=png]
+....
+@startuml sample
+Bob -> Alice : こんにちは！
+@enduml

@@ -1,8 +1,17 @@
 == Link集
 
-GUIで実践！GitHub入門ハンズオン（with VSCode) - Qiita +
-https://qiita.com/yoshi111/items/3a991a58de4f37d73921
+=== 入門
+* GUIで実践！GitHub入門ハンズオン（with VSCode) - Qiita +
+** https://qiita.com/yoshi111/items/3a991a58de4f37d73921
 
-AsciiDoc文書作成入門 [AFFRIT Portal] +
-https://itcweb.cc.affrc.go.jp/affrit/documents/guide/asciidoc/start
+* AsciiDoc文書作成入門 [AFFRIT Portal]
+** https://itcweb.cc.affrc.go.jp/affrit/documents/guide/asciidoc/start
 
+* hogehoge
+** https://qiita.com/aki-nasu/items/464e069f41f2a9b5bc7f
+
+=== 啓蒙
+* エクセル方眼紙をやめてAsciiDoc大好きおじさんになろう - Qiita
+** https://qiita.com/i_completely_understand/items/7cb83dd7a1fcbd93c9d3
+
+* 脱Word、脱Markdown、asciidocでドキュメント作成する際のアレコレ - Qiita ** https://qiita.com/tamikura@github/items/5d3f62dae55617ee42bb
