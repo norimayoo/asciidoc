@@ -1,28 +1,33 @@
-= Document Title (Level 0)
 
-== Level 1 Section Title
 
-=== Level 2 Section Title
+テンション:: ガットの張り方の強さを表したもの
+ハイブリット:: 縦の糸と横の糸を異なる素材でガットを張ること
+アレーコート:: シングルスラインとダブルスラインの間にある縦長で狭いエリアのこと。
 
-==== Level 3 Section Title
+[source, rust]
+----
+fn main(){
+  println!("Hello World");
+}
+----
 
-==== Level 4 Section Title
+.テニスランキング
+[options="header"]
+|=============
+|順位 | プレーヤー | ATPポイント
+|1 | ジョコビッチ | 8,340
+|2 | メドベージェフ | 8,230
+|3 | ズベレフ | 4,465
+|=============
 
-line1 +
-line2
+[format="csv"]
+|=============
+1,2,3,4
+a,b,c,d
+A,B,C,D
+|=============
 
-*bold* +
-_italic_ +
-X^2^ +
-[red]#赤色# +
-[green]#緑色# +
-[underline]#下線# +
-[lne-through]#取消し線# +
-// コメント
-
-■asciidocリファレンス(日本語) +
-https://takumon.github.io/asciidoc-syntax-quick-reference-japanese-translation/
-
-リンクテスト : link:https://takumon.github.io/asciidoc-syntax-quick-reference-japanese-translation/[asciidocリファレンス(日本語)]
-
-image::sample.png
+[source, python]
+----
+include::test.py[line=4..5]
+----
