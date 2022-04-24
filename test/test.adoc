@@ -7,3 +7,22 @@
 ==== Level 3 Section Title
 
 ==== Level 4 Section Title
+
+line1 +
+line2
+
+*bold* +
+_italic_ +
+X^2^ +
+[red]#赤色# +
+[green]#緑色# +
+[underline]#下線# +
+[lne-through]#取消し線# +
+// コメント
+
+■asciidocリファレンス(日本語) +
+https://takumon.github.io/asciidoc-syntax-quick-reference-japanese-translation/
+
+リンクテスト : link:https://takumon.github.io/asciidoc-syntax-quick-reference-japanese-translation/[asciidocリファレンス(日本語)]
+
+image::sample.png
